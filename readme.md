@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/notifications-page-with-tailwindcss-k8w6DGx_fN)
 - Live Site URL: [Netlify](https://fm-challenge-notifications-page.netlify.app)
 
 ## My process
